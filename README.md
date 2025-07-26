@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Lucky Goyal
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/your-image.png" alt="Lucky Goyal" width="300" height="300" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/goyalucky/goyalucky/master/profile.png" alt="Lucky Goyal" width="300" height="300" style="border-radius: 50%;"/>
 </div>
 
 <div align="center">
