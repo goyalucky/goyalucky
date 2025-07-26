@@ -155,7 +155,7 @@ Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing/username)](https://open.spotify.com/user/username)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing/username)](https://open.spotify.com/user/username?flow_ctx=04922cf2-e80d-4939-ab23-597b12cec2b2%3A1753525315)
 
 ---
 
